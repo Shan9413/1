@@ -27,7 +27,7 @@ import sys
 import re
 import os
 import io
-import pycurl
+#import pycurl
 
 # bot = Client(
 #     "bot",
