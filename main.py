@@ -39,7 +39,7 @@ import io
 
 
 bot = Client("bot",
-             bot_token= "6746876285:AAGnUDNwDvWu4RfbkSSiQe8gt-2lU-9p-Bk",
+             bot_token= "6743557600:AAGdbZ-rgsgGBm85QXofKeUYBfk5fpRAv8I",
              api_id= 20088962,
              api_hash= "257f47d347157555890a64b12bc0134f")
     
